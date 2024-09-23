@@ -1,4 +1,4 @@
-# 多工 Block 系統
+# 多工 Block 系統 - 前台
 
 10xGreen Jem 十倍綠寶石工作室一年期 Side Project
 該系統可以建立類似 Arc 的多功能系統，延伸其多個 Workspace, 多個 block 的特色
